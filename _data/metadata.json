@@ -1,5 +1,5 @@
 {
-  "title": "Your Blog Name",
+  "title": "Ramy Test",
   "url": "https://example.com/",
   "language": "en",
   "description": "I am writing about my experiences as a naval navel-gazer.",
@@ -14,8 +14,24 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Ramy K",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
-  }
-}
+  },
+  
+  "Question1"{
+  "Q1":"Talk about how you made your site and why you chose the tools you did. Briefly explain one challenge you experienced in setting up this site and how you solved it."
+  "Answer1":"By following the instruction, I simply created a free Website on Netlify, Link it to my github account, Downloaded the JS file of my template to Visual Studio code. Located page, Index.js, play with the page. One of the main challenge I faced what trying to understand the layout of Netlify, I was trying to find a way to edit the page; then I understood it would have been simpler to work on the code via Visual Studio." 
+},
+  "Question2"{
+    "Q2":"What did you think of our service during the time you used it? Provide either some constructive criticism or some points that impressed you"
+    "Answer2":"I loved the user interface of Netlify, it pretty straight forward which allowed me to understand where I had to go. That being said, I wish it was easier to locate the source code of a web page to code things around."
+},
+   "Question3"{
+    "Q3":"Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"
+     "Answer3":" My 5 favorite: Dig through server logs to troubleshoot a customer s website behavior, Respond to Netlify customers on Twitter, Write and maintain documentation for our software and blog posts for our website, Respond to 50+ support requests via email or chat most days, and Debug a customer's build using a programming language and framework that you've never seen before."
+     "Answer3-a":"Deliver a talk to many people you do not know at a conference or meetup, Respond to Netlify customers on Twitter, Help manage communications during a service outage, Receive occasional phone calls requesting support from our highest-value customers, Find and recruit teammates for the Support team. "
+},   "Question4"{
+   
+  
+"
